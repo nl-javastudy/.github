@@ -1,2 +1,0 @@
-# .github
-NL Java Study
